@@ -3,10 +3,30 @@
     <title>NicoleFargen.com</title>
     <link href="https://quinnfargen.github.io/NoelFargen/feed.xml" rel="self" />
     <link href="https://quinnfargen.github.io/NoelFargen" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2025-01-18T10:06:04-06:00</updated>
     <author>
         <name>NicoleFargen</name>
     </author>
     <id>https://quinnfargen.github.io/NoelFargen</id>
 
+    <entry>
+        <title>This is a post</title>
+        <author>
+            <name>NicoleFargen</name>
+        </author>
+        <link href="https://quinnfargen.github.io/NoelFargen/this-is-a-post.html"/>
+        <id>https://quinnfargen.github.io/NoelFargen/this-is-a-post.html</id>
+
+        <updated>2025-01-18T10:06:04-06:00</updated>
+            <summary>
+                <![CDATA[
+                    What am I doing, I'm not sure how to get this to view on the website.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>What am I doing, I'm not sure how to get this to view on the website.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

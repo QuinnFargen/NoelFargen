@@ -9,5 +9,19 @@
         "name": "NicoleFargen"
     },
     "items": [
+        {
+            "id": "https://quinnfargen.github.io/NoelFargen/this-is-a-post.html",
+            "url": "https://quinnfargen.github.io/NoelFargen/this-is-a-post.html",
+            "title": "This is a post",
+            "summary": "What am I doing, I'm not sure how to get this to view on the website.",
+            "content_html": "<p>What am I doing, I'm not sure how to get this to view on the website.</p>",
+            "author": {
+                "name": "NicoleFargen"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-18T10:06:04-06:00",
+            "date_modified": "2025-01-18T10:06:04-06:00"
+        }
     ]
 }
