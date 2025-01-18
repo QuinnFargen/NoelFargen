@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://quinnfargen.github.io/NoelFargen/sitemap.xml
