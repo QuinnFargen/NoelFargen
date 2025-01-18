@@ -3,7 +3,7 @@
     <title>NicoleFargen.com</title>
     <link href="https://quinnfargen.github.io/NoelFargen/feed.xml" rel="self" />
     <link href="https://quinnfargen.github.io/NoelFargen" />
-    <updated>2025-01-18T10:06:04-06:00</updated>
+    <updated>2025-01-18T10:08:30-06:00</updated>
     <author>
         <name>NicoleFargen</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://quinnfargen.github.io/NoelFargen/this-is-a-post.html"/>
         <id>https://quinnfargen.github.io/NoelFargen/this-is-a-post.html</id>
+        <media:content url="https://quinnfargen.github.io/NoelFargen/media/posts/2/quinn_noel.webp" medium="image" />
 
         <updated>2025-01-18T10:06:04-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://quinnfargen.github.io/NoelFargen/media/posts/2/quinn_noel.webp" alt="" />
                     What am I doing, I'm not sure how to get this to view on the website.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://quinnfargen.github.io/NoelFargen/media/posts/2/quinn_noel.webp" class="type:primaryImage" alt="" /></p>
                 <p>What am I doing, I'm not sure how to get this to view on the website.</p>
             ]]>
         </content>
